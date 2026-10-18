@@ -14,6 +14,12 @@ My second Python project! A simple calculator that shows the total value of your
 
 ---
 
+## 🖥️ Screenshot
+<img width="954" height="702" alt="stockportfolio ss" src="https://github.com/user-attachments/assets/b1ece47f-fa71-482f-989b-30ccc8195d59" />
+
+
+---
+
 ## 🛠️ What I Learned
 
 - Dictionaries for storing data
